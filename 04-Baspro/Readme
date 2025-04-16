@@ -1,1 +1,55 @@
-Tes
+Tugas Bahasa Pemrograman 2 - Matriks 5x5
+
+Identitas
+- Nama     : Jojo Prawinata Situmeang
+- NIM      : 3337240060
+- Tanggal  : 17/04/2025
+
+Deskripsi
+Program ini dibuat untuk memenuhi tugas Bahasa Pemrograman 2, yang mencakup:
+
+1. Membuat matriks 5x5 dengan angka acak yang sudah ditentukan.
+2. Melakukan perkalian dua matriks 5x5.
+3. Menampilkan hasil perkalian matriks.
+
+Input
+- Matriks A  :
+
+    [2, 4, 6, 8, 10]
+    [1, 3, 5, 7, 9]
+    [9, 7, 5, 3, 1]
+    [10, 8, 6, 4, 2]
+    [5, 5, 5, 5, 5]
+
+- Matriks B  :
+
+    [1, 0, 2, 0, 3]
+    [0, 1, 0, 2, 0]
+    [1, 0, 2, 0, 3]
+    [0, 1, 0, 2, 0]
+    [1, 0, 2, 0, 3]    
+
+Output
+- Matriks A:
+
+    [2, 4, 6, 8, 10]
+    [1, 3, 5, 7, 9]
+    [9, 7, 5, 3, 1]
+    [10, 8, 6, 4, 2]
+    [5, 5, 5, 5, 5]
+
+- Matriks B:
+
+    [1, 0, 2, 0, 3]
+    [0, 1, 0, 2, 0]
+    [1, 0, 2, 0, 3]
+    [0, 1, 0, 2, 0]
+    [1, 0, 2, 0, 3]
+
+-Hasil perkalian matriks A x B:
+
+    [18, 12, 36, 24, 54]
+    [15, 10, 30, 20, 45]
+    [15, 10, 30, 20, 45]
+    [18, 12, 36, 24, 54]
+    [15, 10, 30, 20, 45]
